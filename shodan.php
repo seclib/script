@@ -1,5 +1,6 @@
 <?php
 # https://github.com/haqqur/shodan-rest-api-wrapper/blob/master/src/shodan.class.php
+# modifier par satya enki (je l'ai légerement modifier ;))
 namespace Shodan;
 
 class Shodan {
